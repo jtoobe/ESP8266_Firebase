@@ -2,10 +2,10 @@
 #include "FirebaseESP8266.h"
 
 
-#define FIREBASE_HOST "jtoobe-esp-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "P5WeqXq01lsIiRfEcumQUc1vNbaX31GBX9VAvwcr"
-#define WIFI_SSID "veterinarialascamelias"
-#define WIFI_PASSWORD "cocorumba"
+#define FIREBASE_HOST "jtoobe-esp-defaults-rtdb.firebaseio.com"
+#define FIREBASE_AUTH "P5WeqXq01lsIiRfEcumQUc1vNbaX31GBX9VXvwcr"
+#define WIFI_SSID "turedwifi"
+#define WIFI_PASSWORD "tupass"
 
 FirebaseData firebaseData;
 String ruta = "/ESP32";
